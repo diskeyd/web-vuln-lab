@@ -15,15 +15,18 @@
 
 ## 진행 상황
 
-| 취약점 | 구현 | PoC | 완화 |
-|---|:---:|:---:|:---:|
-| XSS | ⬜ | ⬜ | ⬜ |
-| CSRF | ⬜ | ⬜ | ⬜ |
-| SSRF | ⬜ | ⬜ | ⬜ |
-| Command Injection | ⬜ | ⬜ | ⬜ |
-| File Vulnerability | ⬜ | ⬜ | ⬜ |
-| SQL Injection | ⬜ | ⬜ | ⬜ |
-| NoSQL Injection | ⬜ | ⬜ | ⬜ |
+드림핵 「웹 해킹 기초」 로드맵 8유닛과 1:1로 맞춘다 (2026-09 기준).
+
+| # | 취약점 | 구현 | PoC | 완화 |
+|:--:|---|:---:|:---:|:---:|
+| 1 | XSS | ⬜ | ⬜ | ⬜ |
+| 2 | CSRF | ⬜ | ⬜ | ⬜ |
+| 3 | SSRF | ⬜ | ⬜ | ⬜ |
+| 4 | Access Control | ⬜ | ⬜ | ⬜ |
+| 5 | Command Injection | ⬜ | ⬜ | ⬜ |
+| 6 | File Vulnerability | ⬜ | ⬜ | ⬜ |
+| 7 | SQL Injection | ⬜ | ⬜ | ⬜ |
+| 8 | NoSQL Injection | ⬜ | ⬜ | ⬜ |
 
 ## 디렉터리 구조
 
@@ -47,3 +50,4 @@ vuln/<name>/
 ## 기록
 
 - 2026-08 저장소 개설
+- 2026-09 로드맵 8유닛으로 갱신 (Access Control 추가 확인)
